@@ -12,7 +12,7 @@
         text-align: center;
       }
    body{
-       background-color: rgb(126, 126, 126);
+       background-color: #CFE2FF;
    }
 h1,
 h2,
@@ -28,8 +28,11 @@ h3,
           font-family: var(--secondary-font-family);
         color: #fff;
         margin: 0;
+        font-size: 18px;
       }
-      
+      .Descrip{
+          margin: 0;
+      }
 .headings{
 font-size: 20px;
 line-height: 1;
@@ -75,23 +78,33 @@ a.anony:hover{
     
 }
 h3.results{
-    font-size: 22px;
+    font-size: 24px;
 }
       
       img {
         display: block;
         margin: 0 auto;
-        max-width: 80%;
-        border-radius: 4px;
+        max-width: 95%;
+        border-radius: 12px;
       }
       
-      
-      
+      .headings{
+          color: #fff;
+          text-decoration: none;
+      }
+    
+      a.headings:hover{
+          color: #fff;
+          font-weight: 600;
+      }
 @media (max-width:900px){
     .contents{
         max-width: 600px;
         margin: 0 auto;
         padding: 20px 40px;
+    }
+    .headings{
+        font-size: 16px;
     }
 }
 
