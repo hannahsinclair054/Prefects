@@ -12,7 +12,7 @@
         text-align: center;
       }
    body{
-       background-color: #CFE2FF;
+       background-color: #666666;
    }
 h1,
 h2,
@@ -99,7 +99,7 @@ h3.results{
       }
 @media (max-width:600px){
     .contents{
-        max-width: 600px;
+        max-width: 400px;
         margin: 0 auto;
         padding: 20px 40px;
     }
