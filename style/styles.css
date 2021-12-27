@@ -97,7 +97,7 @@ h3.results{
           color: #fff;
           font-weight: 600;
       }
-@media (max-width:900px){
+@media (max-width:600px){
     .contents{
         max-width: 600px;
         margin: 0 auto;
