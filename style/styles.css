@@ -7,7 +7,7 @@
         max-width: 800px;
         margin: 0 auto;
         padding: 20px 60px;
-        border-radius: 16px;
+        border-radius: 14px;
         background-color: #00BCD4;
         text-align: center;
       }
@@ -90,7 +90,7 @@ h3.results{
         display: block;
         margin: 0 auto;
         max-width: 95%;
-        border-radius: 12px;
+        border-radius: 10px;
       }
       
       .headings{
@@ -101,6 +101,9 @@ h3.results{
       a.headings:hover{
           color: #fff;
           font-weight: 600;
+      }
+      .table{
+          border-radius: 10px;overflow:hidden;
       }
 @media (max-width:900px){
     .contents{
@@ -115,9 +118,9 @@ h3.results{
     h2{
         font-size: 26px;
     }
-p{
+    p{
     font-size: 14px;
-}
+    }
     .headings{
         font-size: 16px;
     }
