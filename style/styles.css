@@ -56,6 +56,9 @@ a.weekly-links{
     color: #000;
     text-decoration: none;
 }
+p a.weekly-links{
+    color: #fff;
+}
 a.weekly-links:hover{
     text-decoration: underline;
     font-weight: 600;
