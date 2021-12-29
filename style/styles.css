@@ -29,9 +29,11 @@ h3,
         color: #fff;
         margin: 0;
         font-size: 18px;
+        line-height: 1;
       }
       .Descrip{
           margin: 0;
+          line-height: 1;
       }
 .headings{
 font-size: 20px;
@@ -107,9 +109,22 @@ h3.results{
         padding: 20px 40px;
         width: 90%;
     }
+    h1{
+        font-size: 30px;
+    }
+    h2{
+        font-size: 23px;
+    }
+p{
+    font-size: 12px;
+}
     .headings{
         font-size: 14px;
     }
+    .Descrip{
+        font-size: 12px;
+    }
+
 }
 
      
