@@ -68,6 +68,10 @@ a.weekly-links:hover{
     text-decoration: underline;
     font-weight: 600;
 }
+.results:hover{
+   text-decoration: underline;
+    font-weight: 600; 
+}
 th.titles{
     font-weight: 600;
 }
